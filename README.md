@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on any project I find interesting
 
-Welcome to my profile. If you want to see a nicely presented portfolio of my work, go to likhity.github.io.
+Welcome to my profile. If you want to see a nicely presented portfolio of my work, go to [likhity.github.io](https://likhity.github.io).
